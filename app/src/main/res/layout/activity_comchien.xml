@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".comchien">
+    <TextView
+        android:id="@+id/comchien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cách nấu cơm chiên: đập trứng, bỏ cơm thêm gia vị chiên đều"
+        android:textSize="30dp"
+        android:textColor="#E4086F"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="127dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>
